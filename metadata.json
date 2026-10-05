@@ -1,0 +1,6 @@
+{
+  "name": "متجر صولديا - Soldeya Store",
+  "description": "منصة متجر صولديا SOLDEYA للتجارة الإلكترونية والتكوينات الاحترافية مع نظام المزامنة السحابية وإدارة الطلبات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
